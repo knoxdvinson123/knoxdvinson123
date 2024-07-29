@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reinforcement Learning Research : Implementing on Robotics**
 
-- 🌱 I’m currently learning **C, Python, Linux, Tensorflow, ROS/Gazebo**
+- 🌱 I’m currently learning **C, Java, Python, Linux, Tensorflow**
 
 - 👨‍💻 I have fun photos of my adventures here [https://knoxvinson1.wixsite.com/knoxvinson](https://knoxvinson1.wixsite.com/knoxvinson)
 
